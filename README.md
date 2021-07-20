@@ -25,7 +25,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HameedMulani&layout=compact&theme=synthwave)](https://github.com/HameedMulani?tab=repositories)
 
 ![Hameed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HameedMulani&show_icons=true&theme=synthwave&hide=contribs,prs)
-
 <h2>Interesting Repositories :</h2>
 
 <a href="https://github.com/HameedMulani/Budget-calculator" style="width:50%">
