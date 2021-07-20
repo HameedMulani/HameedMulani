@@ -27,10 +27,10 @@
 ![Hameed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HameedMulani&show_icons=true&theme=synthwave&hide=contribs,prs)
 <h2>Interesting Repositories :</h2>
 
-<a href="https://github.com/HameedMulani/Budget-calculator" style="width:50%">
+<a href="https://github.com/HameedMulani/sorting_algorithm_visualiser" style="width:50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HameedMulani&repo=sorting_algorithm_visualiser&theme=radical" />
 </a>
-<a href="https://github.com/HameedMulani/Drumpad-in-java" style="width:50%">
+<a href="https://github.com/HameedMulani/Jarvis-Virtual-assistant" style="width:50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HameedMulani&repo=Jarvis-Virtual-assistant&theme=radical" />
 </a>
 
