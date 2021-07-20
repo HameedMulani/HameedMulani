@@ -22,7 +22,7 @@
 </p>
 
 <h2>Statistics :</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HameedMulani&layout=compact&theme=synthwave)](https://github.com/HameedMulani?tab=repositories)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hameedmulani&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="hameedmulani" /></p>
 
 ![Hameed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HameedMulani&show_icons=true&theme=synthwave&hide=contribs,prs)
 <h2>Interesting Repositories :</h2>
