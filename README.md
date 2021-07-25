@@ -1,5 +1,5 @@
 ![Neon Green and White Professional LinkedIn Banner](https://user-images.githubusercontent.com/55029779/126896567-538a8bd5-5e53-40fe-806c-74ce918d005e.png)
-<h1 align=center> Hi there, I'm Hameed Mulani 👋</h1>
+<!-- <h1 align=center> Hi there, I'm Hameed Mulani 👋</h1> -->
 <h3 align="center">A student, passionate in learning Full Stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hameedmulani&label=Profile%20views&color=0e75b6&style=flat" alt="hameedmulani" /> </p>
