@@ -1,4 +1,4 @@
-![Neon Green and White Professional LinkedIn Banner](https://user-images.githubusercontent.com/55029779/126896567-538a8bd5-5e53-40fe-806c-74ce918d005e.png)
+![Neon Green and White Professional LinkedIn Banner (1)](https://user-images.githubusercontent.com/55029779/126896683-5382a032-dc17-4d07-ac9b-168817e27c9c.png)
 <!-- <h1 align=center> Hi there, I'm Hameed Mulani 👋</h1> -->
 <h3 align="center">A student, passionate in learning Full Stack development</h3>
 
