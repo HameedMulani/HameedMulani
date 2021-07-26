@@ -9,7 +9,8 @@
     :email:	hameedmulani2001@gmail.com <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/hameedmulani/ <br>
                 Portfolio: https://github.com/HameedMulani
-    <!--     :art: Portfolio: https://saadpasta.github.io <br> -->
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=hameedmulani&label=Profile%20views&color=0e75b6&style=flat" alt="hameedmulani" /> </p>
+       <!--     :art: Portfolio: https://saadpasta.github.io <br> -->
   </samp>
 </p>
  <hr></hr>
