@@ -1,8 +1,21 @@
 ![Neon Green and White Professional LinkedIn Banner (1)](https://user-images.githubusercontent.com/55029779/126896683-5382a032-dc17-4d07-ac9b-168817e27c9c.png)
-<!-- <h1 align=center> Hi there, I'm Hameed Mulani 👋</h1> -->
-<h3 align="center">A student, passionate in learning Full Stack development</h3>
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Hameed! 👋 <br>
+    🔥 19 Year's Old Software Developer - student, Passionate in learning Full Stack development  <br>
+    :sparkles: I’m currently working on **Travel Map app project in (NodeJs) <br>
+    :notebook: I’m currently learning DS and Algo... 😭  <br>
+    :email:	saadpasta70@gmail.com <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/hameedmulani/ <br>
+                Portfolio: https://github.com/HameedMulani
+    <!--     :art: Portfolio: https://saadpasta.github.io <br> -->
+  </samp>
+</p>
+<!-- 
+<h3 align="center">A student, passionate in learning Full Stack development</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hameedmulani&label=Profile%20views&color=0e75b6&style=flat" alt="hameedmulani" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hameedmulani&label=Profile%20views&color=0e75b6&style=flat" alt="hameedmulani" /> </p>
 
 - 🔭 I’m currently working on **Travel Map app project in (NodeJs)**
 
@@ -13,7 +26,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/HameedMulani](https://github.com/HameedMulani)
 
 - 📫 How to reach me **hameedmulani2001@gmail.com**
-
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hameedmulani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hameed mulani" height="30" width="40" /></a>
