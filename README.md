@@ -43,7 +43,7 @@
 
 ![Hameed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HameedMulani&show_icons=true&theme=synthwave&hide=contribs,prs)
 
-<h2>Interesting Repositories :</h2>
+<!-- <h2>Interesting Repositories :</h2> -->
 
 <!-- <a href="https://github.com/HameedMulani/sorting_algorithm_visualiser" style="width:50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HameedMulani&repo=sorting_algorithm_visualiser&theme=radical" />
