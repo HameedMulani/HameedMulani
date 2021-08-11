@@ -1,4 +1,5 @@
-![Neon Green and White Professional LinkedIn Banner (1)](https://user-images.githubusercontent.com/55029779/126896683-5382a032-dc17-4d07-ac9b-168817e27c9c.png)
+![Git hub banner (1)](https://user-images.githubusercontent.com/55029779/128985899-81d4fb98-2260-434a-96d5-39f8249484bf.png)
+
  <hr></hr>
 <p align="center">
   <samp>
