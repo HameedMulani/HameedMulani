@@ -5,8 +5,8 @@
   <samp>
     Hi, I'm Hameed! 👋 <br>
     🔥 19 Year's Old Software Developer - student, Passionate in learning Full Stack development  <br>
-    :sparkles: I’m currently working on Travel Map app project in (NodeJs)<br>
-    :notebook: I’m currently learning full stack development 💻<br>
+    :sparkles: I’m currently working on Android app development<br>
+    :notebook: I’m currently learning Kotlin, Android Architechture💻<br>
     :email:	hameedmulani2001@gmail.com <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/hameedmulani/ <br>
                 Portfolio: https://github.com/HameedMulani
