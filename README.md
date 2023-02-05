@@ -41,9 +41,9 @@
 </p>
 
 <h2>Statistics :</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hameedmulani&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="hameedmulani" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hameedmulani&show_icons=true&locale=en&layout=compact" alt="hameedmulani" /></p>
 
-![Hameed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HameedMulani&show_icons=true&theme=synthwave&hide=contribs,prs)
+![Hameed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HameedMulani&show_icons=true&hide=contribs,prs)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HameedMulani&" alt="HameedMulani" /></p>
 
