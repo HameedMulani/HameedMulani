@@ -31,7 +31,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HameedMulani](https://github.com/HameedMulani)
 
-- 📫 How to reach me **hameedmulani2001@gmail.com**
+- 📫 How to reach me **technicalhameed1991@gmail.com**
  -->
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
