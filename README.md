@@ -1,6 +1,7 @@
 
-<!-- <img src="https://user-images.githubusercontent.com/55029779/128985899-81d4fb98-2260-434a-96d5-39f8249484bf.png" height="450px" width="10px"> -->
-![Git hub banner (1)](https://user-images.githubusercontent.com/55029779/128985899-81d4fb98-2260-434a-96d5-39f8249484bf.png)
+<img src="https://user-images.githubusercontent.com/55029779/128985899-81d4fb98-2260-434a-96d5-39f8249484bf.png" height="350px">
+<!-- ![Git hub banner (1)](https://user-images.githubusercontent.com/55029779/128985899-81d4fb98-2260-434a-96d5-39f8249484bf.png) -->
+
 <!-- holopin -->
 [![@hameedmulani's Holopin board](https://holopin.me/hameedmulani)](https://holopin.io/@hameedmulani)
 <p align="center">
