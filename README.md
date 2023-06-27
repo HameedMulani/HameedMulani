@@ -22,7 +22,7 @@
 <h3 align="center">A student, passionate in learning Full Stack development</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hameedmulani&label=Profile%20views&color=0e75b6&style=flat" alt="hameedmulani" /> </p>
-
+![Hameed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HameedMulani&show_icons=true&hide=contribs,prs)
 - 🔭 I’m currently working on **Travel Map app project in (NodeJs)**
 
 - 🌱 I’m currently learning **full stack development**
@@ -43,8 +43,6 @@
 
 <h2>Statistics :</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hameedmulani&show_icons=true&locale=en&layout=compact" alt="hameedmulani" /></p>
-
-![Hameed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HameedMulani&show_icons=true&hide=contribs,prs)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HameedMulani&" alt="HameedMulani" /></p>
 
