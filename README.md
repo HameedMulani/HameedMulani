@@ -8,8 +8,8 @@
   <samp>
     Hi, I'm Hameed! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="24px"> <br>
     🔥 21 Year's Old Software Developer - student, Passionate in learning Full Stack development  <br>
-    :sparkles: I’m currently working on web Based Project <br>
-    :notebook: I’m currently learning JavaScript and its Frameworks💻<br>
+<!--     :sparkles: I’m currently working on web Based Project <br>
+    :notebook: I’m currently learning JavaScript and its Frameworks💻<br> -->
     :email:	hameedmulani2001@gmail.com <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/hameedmulani/ <br>
                 Portfolio: https://github.com/HameedMulani
