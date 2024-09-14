@@ -1,13 +1,14 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/55029779/128985899-81d4fb98-2260-434a-96d5-39f8249484bf.png" height="350px"> -->
-![Git hub banner (1)](https://user-images.githubusercontent.com/55029779/128985899-81d4fb98-2260-434a-96d5-39f8249484bf.png)
+<!-- ![Git hub banner (1)](https://user-images.githubusercontent.com/55029779/128985899-81d4fb98-2260-434a-96d5-39f8249484bf.png) -->
+![Git hub banner](https://github.com/user-attachments/assets/65e840a0-d493-42a6-a665-2890908888f1)
 
 <!-- holopin -->
 [![@hameedmulani's Holopin board](https://holopin.me/hameedmulani)](https://holopin.io/@hameedmulani)
 <p align="center">
   <samp>
     Hi, I'm Hameed! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="24px"> <br>
-    🔥 21 Year's Old Software Developer - student, Passionate in learning Full Stack development  <br>
+    🔥 23 Year's Old Software Development Engineer - student, Passionate in learning Full Stack development  <br>
 <!--     :sparkles: I’m currently working on web Based Project <br>
     :notebook: I’m currently learning JavaScript and its Frameworks💻<br> -->
     :email:	hameedmulani2001@gmail.com <br>
